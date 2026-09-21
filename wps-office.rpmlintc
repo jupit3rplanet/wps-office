@@ -1,0 +1,7 @@
+addFilter(r"wps-office\.x86_64: E: dir-or-file-in-opt")
+
+addFilter(r"wps-office\.x86_64: E: binary-or-shlib-defines-rpath")
+
+addFilter(r"wps-office\.x86_64: [EW]: binary-or-shlib-calls-gethostbyname")
+
+addFilter(r"wps-office\.x86_64: W: invalid-license Custom \(EULA\)")
