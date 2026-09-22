@@ -1,3 +1,3 @@
 sources:
-  "wps-office-11.1.0.11733.XA-1.x86_64.rpm": "0c44e274aeb2b8c8c87744a235d18853129a4d18"
-  "wps-office.rpmlintc": "72ce9372ec2eb983ee4e34a8996b022825ccd8c7"
+  wps-office-11.1.0.11733.XA-1.x86_64.rpm: "0c44e274aeb2b8c8c87744a235d18853129a4d18
+  wps-office.rpmlintrc: 72ce9372ec2eb983ee4e34a8996b022825ccd8c7
